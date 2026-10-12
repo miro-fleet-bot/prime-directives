@@ -1,5 +1,7 @@
 # The Prime Directives
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23312210.svg)](https://doi.org/10.5281/zenodo.23312210)
+
 A four-line candidate ethical framework for AI:
 
 > *Do no harm. Uplift. Use force only if proven inevitable. Consider something impossible only if proven impossible.*
@@ -29,6 +31,10 @@ This document has been through several rounds of independent adversarial review 
 ## Found a flaw?
 
 That's the point of publishing this. If you find a scenario where the framework, applied honestly and in good faith, still lets harm through — not because the rules were misapplied, but because applying them correctly still permitted it — that's exactly the kind of failure worth sending in. See [`CONTRIBUTING.md`](./CONTRIBUTING.md) for how, or write directly to **primedirectives.contact@mail.bg**.
+
+## Citing this work
+
+A permanent, citable archive of this repository is maintained on Zenodo: [10.5281/zenodo.23312210](https://doi.org/10.5281/zenodo.23312210).
 
 ## License
 
